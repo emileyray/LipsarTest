@@ -1,1 +1,1 @@
-# A simple game created in the scope of Lipsar studio internship
+### A simple game created in the scope of Lipsar studio internship
